@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack developer from India</h3>
 
 # 💫 About Me:
-I'm a passionate Full Stack Web Developer from India. I'm enthusiastic about learning new technologies and also solving problems in mathematics to solving problems in software engineering,I have developed excellent problem-solving skill that is necessary to solve complex problems.This skill also help me to solve Data structure and algorithms problems.<br><br><br>🌱 I’m currently learning MERN Stack<br><br>👯 I’m looking to collaborate on OpenSource Projects<br><br>👨‍💻 All of my projects are available at[ MyPortfolio](https://akashsingh1121.github.io/myportfolio/)<br><br>💬 Ask me about anything I am happy to help
+I'm a passionate Full Stack Web Developer from India. I'm enthusiastic about learning new technologies and also solving problems in mathematics to solving problems in software engineering,I have developed excellent problem-solving skill that is necessary to solve complex problems.This skill also help me to solve Data structure and algorithms problems.<br><br><br>🌱 I’m a MERN Stack Developer<br><br>👯 I’m looking to collaborate on OpenSource Projects<br><br>👨‍💻 All of my projects are available at[ MyPortfolio](https://akashsingh1121.github.io/myportfolio/)<br><br>💬 Ask me about anything I am happy to help
 
 
 ## 🌐 Socials:
